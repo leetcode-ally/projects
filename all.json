@@ -10,8 +10,8 @@
         "link": "https://play.google.com/store/apps/details?id=com.leetos",
         "type": "Mobile Application",
         "video": "https://youtu.be/biGczT-ckgQ",
-        "logo": "https://leetcode-ally.github.io/projects/leetcode-ally-logo.jpg",
-        "img": "https://leetcode-ally.github.io/projects/leetcode-ally.jpg"
+        "logo": "https://leetcode-ally.github.io/projects/leetcode-ally-logo.png",
+        "img": "https://leetcode-ally.github.io/projects/leetcode-ally.png"
       },
       {
         "id": 2,
@@ -20,14 +20,14 @@
         "link": "https://play.google.com/store/apps/details?id=com.ethosforces",
         "type": "Mobile Application",
         "video": "https://www.youtube.com/watch?v=Fs9nskYCjR0",
-        "logo": "https://leetcode-ally.github.io/projects/codeforces-ally-logo.jpg",
-        "img": "https://leetcode-ally.github.io/projects/codeforces-ally.jpg"
+        "logo": "https://leetcode-ally.github.io/projects/codeforces-ally-logo.png",
+        "img": "https://leetcode-ally.github.io/projects/codeforces-ally.png"
       },
       {
         "id": 3,
         "name": "MongoDB Ally",
         "description": "It is your all-inclusive MongoDB tutorial app for both seasoned developers and curious learners. Dive into NoSQL databases, explore MongoDB's unique features, and master data storage principles through our extensive tutorial library. Experience hands-on learning with interactive examples and exercises, guiding you to implement MongoDB in real-world scenarios. With offline access and light/dark theme, you can learn MongoDB anytime, anywhere.",
-        "link": "https://play.google.com/store/apps/details?id=com.ethosforces",
+        "link": "https://play.google.com/store/apps/details?id=com.mongosimplifier",
         "type": "Mobile Application",
         "video": "https://www.youtube.com/watch?v=Fs9nskYCjR0",
         "logo": "https://leetcode-ally.github.io/projects/mongodb-ally-logo.jpg",
@@ -40,8 +40,8 @@
         "link": "https://chrome.google.com/webstore/detail/leetos/nmomaabbkefijibadipbdkinfpiehkof/related?hl=en-GB",
         "type": "Chrome and Edge Extension",
         "video": "https://youtu.be/3jv4FlSVcn8",
-        "logo": "https://leetcode-ally.github.io/projects/leetos-logo.jpg",
-        "img": "https://leetcode-ally.github.io/projects/leetos.jpg"
+        "logo": "https://leetcode-ally.github.io/projects/leetos-logo.png",
+        "img": "https://leetcode-ally.github.io/projects/leetos.png"
       },
       {
         "id": 5,
@@ -50,8 +50,8 @@
         "link": "https://code-fingers.amansaxena.me/",
         "type": "React Web Application",
         "video": "https://youtu.be/vgtUqxyNL70",
-        "logo": "https://leetcode-ally.github.io/projects/code-fingers-logo.jpg",
-        "img": "https://leetcode-ally.github.io/projects/code-fingers.jpg"
+        "logo": "https://leetcode-ally.github.io/projects/code-fingers-logo.png",
+        "img": "https://leetcode-ally.github.io/projects/code-fingers.png"
       },
       {
         "id": 6,
@@ -60,8 +60,8 @@
         "link": "https://play.google.com/store/apps/details?id=com.codecoffee",
         "type": "Mobile Application",
         "video": "https://youtu.be/n3yflPAUUw4",
-        "logo": "https://leetcode-ally.github.io/projects/codecoffee-logo.jpg",
-        "img": "https://leetcode-ally.github.io/projects/codecoffee.jpg"
+        "logo": "https://leetcode-ally.github.io/projects/codecoffee-logo.png",
+        "img": "https://leetcode-ally.github.io/projects/codecoffee.png"
       },
       {
         "id": 7,
@@ -71,7 +71,7 @@
         "type": "Chrome Extension",
         "video": "https://youtu.be/TR3voLflsWY",
         "logo": "https://leetcode-ally.github.io/projects/amaditor.jpg",
-        "img": "https://leetcode-ally.github.io/projects/amaditor-logo.jpg"
+        "img": "https://leetcode-ally.github.io/projects/amaditor-logo.png"
       },
       {
         "id": 8,
@@ -80,8 +80,8 @@
         "link": "https://mesons-web.vercel.app/",
         "type": "MERN Web Application",
         "video": "https://youtu.be/H_HACjJSufQ",
-        "logo": "https://leetcode-ally.github.io/projects/mesons-logo.jpg",
-        "img": "https://leetcode-ally.github.io/projects/mesons.jpg"
+        "logo": "https://leetcode-ally.github.io/projects/mesons-logo.png",
+        "img": "https://leetcode-ally.github.io/projects/mesons.png"
       },
       {
         "id": 9,
@@ -90,7 +90,7 @@
         "link": "http://amansaxena.me/TrackmeHost/",
         "type": "Mobile Application",
         "video": "https://youtu.be/RklmUJf9xUI",
-        "logo": "https://leetcode-ally.github.io/projects/trackme-logo.jpg",
+        "logo": "https://leetcode-ally.github.io/projects/trackme-logo.png",
         "img": "https://leetcode-ally.github.io/projects/trackme.jpg"
       },
       {
@@ -100,7 +100,7 @@
         "link": "http://amansaxena.me/Innovadia_View/",
         "type": "Mobile Application",
         "video": "https://youtu.be/lA-5RMdZsEc",
-        "logo": "https://leetcode-ally.github.io/projects/innovadia-logo.jpg",
+        "logo": "https://leetcode-ally.github.io/projects/innovadia-logo.png",
         "img": "https://leetcode-ally.github.io/projects/innovadia.jpg"
       },
       {
@@ -110,8 +110,8 @@
         "link": "https://youtu.be/wVrS0w6ywJA",
         "type": "React Web Application",
         "video": "https://youtu.be/wVrS0w6ywJA",
-        "logo": "https://leetcode-ally.github.io/projects/chit-chat-logo.jpg",
-        "img": "https://leetcode-ally.github.io/projects/chit-chat.jpg"
+        "logo": "https://leetcode-ally.github.io/projects/chit-chat-logo.png",
+        "img": "https://leetcode-ally.github.io/projects/chit-chat.png"
       }
     ]
   }
