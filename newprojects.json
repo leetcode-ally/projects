@@ -1,0 +1,117 @@
+{
+  "status": 200,
+  "message": "All Projects fetched sucessfully",
+  "data": {
+    "projects": [
+      {
+        "id": 1,
+        "name": "Leetcode Ally",
+        "description": "Leetcode Ally is a mobile app that brings all Leetcode questions and contests to your fingertips. It offers a wide range of questions, filterable by top companies, and includes video tutorials of important questions. Track your progress, add friends, and compare your performance with them. The app also provides curated DSA sheets with important practice questions to help you excel in your DSA journey.",
+        "link": "https://play.google.com/store/apps/details?id=com.leetos",
+        "type": "Mobile Application",
+        "video": "https://youtu.be/biGczT-ckgQ",
+        "logo": "https://leetcode-ally.github.io/projects/leetcode-ally-logo.png",
+        "images": [
+          "https://play-lh.googleusercontent.com/UuErE4dGDexYD-eI8QETOMiEr2A0ZYs_bXGsKvfDwlTzoff3mRSVNb79jrD7Nl_-JR0=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/B4kMKVFUvUF50NycLZFYc2kqXf5_EE7mLMxus61ffDnao0gl8INx-d8GqgNkYkcNvw4=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/OjvDtBn3XMN7G8lkzXNTcMIy5Lpi7O1UevhSBm8w-5Ts_cOZGfmRcl42jpeWWwzF1kM=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/1MqTttItArczKPAZUwmcBufMO_Pe2xHSz9L1pScrFb05E7OFIEpmp4wT8VbkWLaXdbHe=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/LZOztOJ6KefNrtnhRb65xOWOMRedIw7iiMJT9wbk_zoYKK__jypuOUsCV1KeQN2lsYQ=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/qKT-K2QUKBlN15HxeMW4IqLnqnFyf_9vfOXhyt8SV1le5_RKbu4J8XXFaYmzP6wFagX1=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/Yazw_j6gRFH3D9_pc3Ux1uvn-B4zmLNroinnpHBrmN4inmnL8lbLrQ0uc_-JDHZ-y5bU=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/K0p2WLKGD-ElPWB5OmWA05oFWr2aVThJu8SokMqP4owe6CZymF5vyDapqmtTdkvNeg=w5120-h2880-rw"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Codeforces Ally",
+        "description": "A React Native application in which you can see all of your codeforces information, your contests, ranks in each contest, submitted codes with date and time, read questions. App provides a full-fledged code editor where you can write and run your code and you can directly submit the code to Codeforces. You can also analyze your performance and compare your progress with your friends.",
+        "link": "https://play.google.com/store/apps/details?id=com.ethosforces",
+        "type": "Mobile Application",
+        "video": "https://www.youtube.com/watch?v=Fs9nskYCjR0",
+        "logo": "https://leetcode-ally.github.io/projects/codeforces-ally-logo.png",
+        "images": [
+          "https://play-lh.googleusercontent.com/Zy0U70BzUV3UZtQkQ0WMRDbcmZrSeS_dxTFBC6IEmvTjMHLSL_JOsjStle-kVTS4AYs=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/XK5zEnFUI9m69f3xat4qz7El_6a2QNCuFMSZRABMOIBUOykRmCaXnarredtHyfVRDg=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/xCfs7tN4x-NY-OvxAqHd-pYFHnKkpS5wnDYhyr6VzcPzg7LqWosNge_caf8f0vchgS0A=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/1Ti_OUrF-NYHJf4cbcHdEDagQI9x5lsZvutnobxJTmLZIwtWYfCNUe319K3PM2ssOcM=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/SZCB6pXVsy2cg6HNXPMU_cJJJUs-45vtR0pKcHVAWTgvuwgIkjAyyFwzcJFY1JFG1A=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/InAWIUBBwUiNY78Yw2bo7cY14eI6SAaQtxhh0Dvwa3frayXDm_c5TAgQ2Yap3xBmNAg=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/ncQzcd3DLpK1c9Vh_sN40BJ9zvAqVJr7aCaMJk8iB4qqiz2QBFpjch1Wy-NRysDJSww=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/ysx9jqXiWijVImZ4wa2jv_5kIh7JA87CpUafeU070SOZRDv90bPS41d_4QulBQ-B2Ow=w5120-h2880-rw"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Codefolio Ally",
+        "description": "It is an application where you can add all of your coding profiles of platforms including Leetcode, Codeforces, Codechef, Geeks for Geeks, Codestudio, Hackerearth and Interviewbit. You can analyze your performance and progress across multiple coding platforms all at a single place. You can also compare your progress with your friends.",
+        "link": "https://play.google.com/store/apps/details?id=com.codecoffee",
+        "type": "Mobile Application",
+        "logo": "https://leetcode-ally.github.io/projects/codefolio-ally.webp",
+        "images": [
+          "https://play-lh.googleusercontent.com/piuosP_qHuP0jClV7qrm8QrURKidi5UjaShGfLkRzcWemDNrpEjKpaxV5k3Rno0t_mfY=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/_GzGidSIrd6CIQLz7FFReNk-zhfYUmC6SFSGC5jEhZRMBmPmaYYEK0q2gzgrWTi3h1w=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/Ebm72JuMS-OY8CF2J5T0--e4myrsfpugQvPtni6UT_zhOL8xoJD7eWLxvzqUF_tZdCGi=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/eWR9E2BAA_iKhdDvHS7hySb5CqEIcaUBpkWUvV7SEWYYbJDjp-iXzSer227K7AYvHQ=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/e3qGhMp8nRPVa0hvFnNK_bky2EuhkIhTaKb0_mU3VrL3XlGo_ZfgKyGWig_J1JpXUQ=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/jm6KKytotjhWTMtTQe3-cuHelOOrv1RasSIzQfOQu_XeUVvHYmZSuu0RQbSvRLM4WQ=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/Hjeg6vAoKzLneSu8ehmKe46J0S4dEU80272dECNcFO9S53MsNqm4TxbHTPdlqKg-bqJK=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/8odAvpfhcw1b0PkZArDmt71y2PV4SbfcuuaUMearTwv2yKkF-5GuTmLn3BQxhbRBV6Y=w5120-h2880-rw"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "MongoDB Ally",
+        "description": "It is your all-inclusive MongoDB tutorial app for both seasoned developers and curious learners. Dive into NoSQL databases, explore MongoDB's unique features, and master data storage principles through our extensive tutorial library. Experience hands-on learning with interactive examples, guiding you to implement MongoDB in real-world scenarios. Learn MongoDB, take quizzes, track your progress, study interview questions, and much more with MongoDB Ally.",
+        "link": "https://play.google.com/store/apps/details?id=com.mongosimplifier",
+        "type": "Mobile Application",
+        "video": "https://www.youtube.com/watch?v=Fs9nskYCjR0",
+        "logo": "https://leetcode-ally.github.io/projects/monogbd-ally-logo.webp",
+        "images": [
+          "https://play-lh.googleusercontent.com/9AeyDuzfBzyQlBSi_s7AWnf2eoVtmq4FnHWV2N3uMNSyBM1Z8y9M4oh79TCHs2RR0Bo=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/UfxfLhjjLXLYd75gvyb44XYyvy0rdGQxU5ZolOUEztUSZoD-kKtL5G3jRwMMZFKJCw=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/V1d_oRH6NPJ8a4PF7xI5leir_09Mmq0sdZ7xZcu3dnLSiU0AtUsS-pFW45e4xH-Y3xXD=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/TBzZNWFRFZYctRQ-0WZTVoFxl0UGcHPn-qRjiZTW8JMM-KLnTUgm2I6799598kmv6Kw=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/H60ag2KxAPwpmXhLSNHI3wjAg5B-F9wu0O1Rm6rXXsM0IylSCXt8czjj270ZzxRx2Q=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/4CV-B0_JkSQlqcZw78H_4QSoJxLwau0KO5-HBsJ2ZKQsIwPA5BheAMTSqlL1srKLXFQ=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/7izbPuS9cfQ2TsIjdtqteKE0QSOd_USDg1yzxZvKux_I9gimK1yq9lsfRmBN1tiwiA=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/DKCHivpaYuKS9LhfcU4id_ZpEHfFimbnZju5-kbzC3WIiccgVu8R8i-M2HXL6RHj3Tc=w5120-h2880-rw"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "React Ally",
+        "description": "React Ally is the ultimate learning companion for developers looking to master React. It offers in-depth tutorials, dives deep into how React works under the hood, interactive quizzes to test your knowledge, interview questions to help you prepare for job interviews, and a variety of sample projects to practice real-world skills. Whether you're a beginner or an experienced developer, React Ally ensures you get hands-on experience and a deep understanding of React.",
+        "link": "https://play.google.com/store/apps/details?id=com.reactally",
+        "type": "Mobile Application",
+        "logo": "https://leetcode-ally.github.io/projects/react-ally.webp",
+        "images": [
+          "https://play-lh.googleusercontent.com/RUnYDThF7oYVh0Rn7kuGmeK0pwozSWQ9AhyXZzlUMoMQVQLCCp7gPvdTa0zEYZfsYSNM=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/_B9Zaykhmc_BHBDmcxzNdpjRKfnTEKKKuaunziglnvHoZv5T6_wXMWKVQraKTIAXEk8=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/rHbRUDnFLxVNFZ8jdpNRXG111UqBrY3twFFHjpvWvOv4fAyl7O3aXUC11ZBYZe0CQ2H8=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/dcAEBi7DCxAgblMrRbBkWYgSoBjBL0VC0STDNZj0FcxHzqdOJ7O7IipTZfiOIMvi38g=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/WPwcx40645TN2qI6CyUt8mOciVAnkE8iJXFItjGtP4yNl3sEPXp4apvtX7TjRFavvOE=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/cOQzepBumOibKWPoQQ2KWzOJvpWXctehTrKtkXHPFhlOGUidKFpS9wmMxpr24jVvAHM=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/GTa1rN-IHzW1q-RBWqnF9-cFzQZ8dK7lA9jcoASFiAnEHA9zMBIcV-qkm5cMPSl-D24=w5120-h2880-rw",
+          "https://play-lh.googleusercontent.com/oSGxQMVJmZlueQDo8BNXK5ubpRwEFw2PqTSArlj9WO7mVz14FHdHk21DOxV0VrH7vc1x=w5120-h2880-rw"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "C++ Ally: Code Editor",
+        "description": "C++ Code Editor is a powerful yet easy-to-use code editor and compiler designed specifically for C++ programming. Whether you're a beginner learning to code or an experienced developer, this app provides a smooth coding experience with essential features that streamline your workflow.",
+        "link": "https://play.google.com/store/apps/details?id=com.cppally",
+        "type": "Mobile Application",
+        "logo": "https://leetcode-ally.github.io/projects/cpp-ally.webp",
+        "images": [
+          "https://play-lh.googleusercontent.com/gEG2rnf500ZyQKdZzKAiBsassmCmLeB-643Wh_tkBq6dAx6e2EF_GBQULu8AIsUDNog7=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/hCJ9DEjmg2742iGzDy2116lAJeE2IFK0hS9HVV_lR9Yn1o6WlHdZZ9yo2sdiDAuhWsEl=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/6Mhfk7TqtNCC7jfTyIxUfCNfdPcv6HAUmuhjghu5YJSlFPXDNyQb-Cm3XhNO_V76F87c=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/hOf34vx3F3HWJ4B6Tu8YUQMSJQQt-RsQGd4caoJcOo36_Q46Kte44a_HkqnYAtFPZYw=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/tH6tmCKfeyHAr2L8dP-jvOvrQkJbO7wQrw1i2qUSbpAgLpsIAIgt7bYPsA9iu_VKSboE=w2560-h1440-rw",
+          "https://play-lh.googleusercontent.com/lJ1jSe4acs50UOC2rNWhUR1tgFrQmO9_zuemXy3SSo1be37GxCUfrplHdLYQKKtyqLM=w2560-h1440-rw"
+        ]
+      }
+    ]
+  }
+}
